@@ -6,11 +6,11 @@ All the services are based on Kali Linux penetration testing tools so it's meant
 for kali linux.
 Some of the tools integrated in this script are (airmon-ng, airodump-ng, aircrack-ng, aireplay-ng, netcat, nmap, Hydra...etc.)
 ## PySploit Services 
-1-Hacking Wifi
-2-Encrypting
-3-Decrypting
-4-Chat NC
-5-Root System
-6-Scanning
-7-DosFTPAttack
-8-PasswordCracking
+1-Hacking Wifi <br/>
+2-Encrypting<br/>
+3-Decrypting<br/>
+4-Chat NC<br/>
+5-Root System<br/>
+6-Scanning<br/>
+7-DosFTPAttack<br/>
+8-PasswordCracking<br/>
